@@ -1,3 +1,4 @@
+#GW CAPE CAPE BUAT LU JAN RENAME YAA GW PERCAYA LU OKE.
 import random
 import socket
 import threading
@@ -39,7 +40,7 @@ def  type(s):
               
               
 type("""
-\033[93mDari Abu Hurairah bahwa Nabi saw. bersabda: â€œJauhilah hasad (dengki), karena hasad dapat memakan kebaikan seperti api memakan kayu bakar.â€ (HR Abu Dawud). Kedengkian 
+\033[93mDari. Abu. Hurairah. bahwa Nabi saw. bersabda: â€œJauhilah. hasad. (dengki), karena. hasad. dapa.t memakan. kebaikan. seperti. api. memakan. kayu. bakar.â€. (HR Abu Dawud). Kedengkian.
 
 \033[91m WAHAI ENGKAU MANUSIA JANGAN LAH ENGKAU DDOS SERVER YANG TIDAK BERSALAH """)
 
